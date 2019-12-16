@@ -6,11 +6,10 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  margin: 20px;
 }
 .shop {
-  flex-basis: 16%;
-  border: 1px dotted crimson;
+  flex-basis: 28%;
+  border: 1px dotted;
   padding: 0.2em;
-  margin: 0.5em;
-  text-align: center;
 }
